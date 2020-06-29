@@ -5,3 +5,5 @@ print("no, the master is kind to Smeagol")
 
 print("the master wants the precious")
 
+print("something else")
+
